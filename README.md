@@ -46,13 +46,10 @@ Mi filosofía de aprendizaje se basa en la disciplina diaria, la constancia y el
 
 Aquí podrás ver el reflejo de mi constancia y los lenguajes en los que paso más tiempo programando:
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radial&hide_border=true)
-![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radial&hide_border=true)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SiloeGB&show_icons=true&theme=radial&hide_border=true)
+![Tus lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=SiloeG&layout=compact&theme=radial&hide_border=true)
 
 ---
 
 ### 📫 Conéctate conmigo
 * Si quieres colaborar en algún proyecto de práctica o simplemente hablar de código y desarrollo, ¡eres bienvenido!
-
-*(Nota: Asegúrate de cambiar "TU_USUARIO_DE_GITHUB" en los enlaces de las estadísticas por tu nombre de usuario real para que se carguen tus gráficas automáticamente).*
--->
